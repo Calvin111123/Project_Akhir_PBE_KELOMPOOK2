@@ -35,9 +35,8 @@ Fitur Utama:
 
 Peran Anggota:
 
-1.Jalal Said Safi'i (Registrasi)
-1. Mahadika Rastia Wardana (Login dan Logout)
-2. Calvin Andre Dwinata (Registrasi dan Dashboard)
-3. Jalal Said Safi'i (Manajemen Jadwal Kuliah)
+1. Jalal Said Safi'i (Registrasi)
+2. Mahadika Rastia Wardana (Login dan Logout)
+3. Calvin Andre Dwinata (Dashboard dan Manajemen Jadwal Kuliah)
 4. Sahara Muhammad Khaidar (Manajemen Event Campus)
 5. Idris Maulana (Profil)
