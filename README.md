@@ -42,4 +42,4 @@ Peran Anggota:
 5. Idris Maulana (Profil)
 
 Link Vidio Demo Aplikasi:
-https://drive.google.com/file/d/1L275XFgiObPHvDXYdW2WTM9zQW0BWybm/view?usp=sharing
+https://drive.google.com/file/d/1NYFPJQfLEsAIpvjSf3fEOMzCFL-Jh3Cm/view?usp=sharing
