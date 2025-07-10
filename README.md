@@ -31,9 +31,11 @@ Fitur Utama:
 
 6.Logout & Navigasi Mudah
 -Navigasi cepat antar halaman (Dashboard, Jadwal Kuliah, Event Campus, Profil, Logout).
+-Saat pengguna menekan logout maka akan dialihkan kembali ke halaman login.
 
 Peran Anggota:
-1. Mahadika Rastia Wardana (Login)
+1.Jalal Said Safi'i (Registrasi)
+1. Mahadika Rastia Wardana (Login dan Logout)
 2. Calvin Andre Dwinata (Registrasi dan Dashboard)
 3. Jalal Said Safi'i (Manajemen Jadwal Kuliah)
 4. Sahara Muhammad Khaidar (Manajemen Event Campus)
