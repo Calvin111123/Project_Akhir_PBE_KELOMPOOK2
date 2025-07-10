@@ -8,6 +8,7 @@ memanfaatkan database SQL Server sebagai penyimpanan data utama dan menggunakan 
 ADO.NET untuk proses CRUD (Create, Read, Update, Delete) antara aplikasi dan database.
 
 Fitur Utama:
+
 1.Registrasi & Login
 -Pengguna dapat melakukan registrasi akun baru dengan data Username, NIM, Email, dan Password.
 -Login aman dengan autentikasi berdasarkan data yang sudah terdaftar di database.
