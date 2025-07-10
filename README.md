@@ -34,6 +34,7 @@ Fitur Utama:
 -Saat pengguna menekan logout maka akan dialihkan kembali ke halaman login.
 
 Peran Anggota:
+
 1.Jalal Said Safi'i (Registrasi)
 1. Mahadika Rastia Wardana (Login dan Logout)
 2. Calvin Andre Dwinata (Registrasi dan Dashboard)
