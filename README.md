@@ -40,3 +40,6 @@ Peran Anggota:
 3. Calvin Andre Dwinata (Dashboard dan Manajemen Jadwal Kuliah)
 4. Sahara Muhammad Khaidar (Manajemen Event Campus)
 5. Idris Maulana (Profil)
+
+Link Vidio Demo Aplikasi:
+https://drive.google.com/file/d/1L275XFgiObPHvDXYdW2WTM9zQW0BWybm/view?usp=sharing
